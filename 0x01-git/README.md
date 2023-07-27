@@ -25,4 +25,4 @@ For the moment we have an empty project directory containing only a README.md. I
     - Commit your changes (message: “Starting to code today, so cool”) and push to the remote server
 
     - ✨See the Magic ✨
-    -
+    -up to date
